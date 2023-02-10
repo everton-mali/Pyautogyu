@@ -23,5 +23,3 @@ pyautogui.leftClick()
 time.sleep(1)
 pyautogui.moveTo(833, 421)
 pyautogui.leftClick()
-
-i = i+1
